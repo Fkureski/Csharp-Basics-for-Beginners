@@ -7,4 +7,5 @@ This repository is for me to learn and practice C# fundamentals, covering topics
 - Arrays and Lists
 - Working with Dates, Text, and Files
 - Debugging Applications
+  
 A place to experiment and improve my C# skills step by step! 🔥
