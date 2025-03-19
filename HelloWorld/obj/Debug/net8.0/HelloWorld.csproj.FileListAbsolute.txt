@@ -1,0 +1,15 @@
+D:\Studies\C#\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\Studies\C#\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\Studies\C#\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\Studies\C#\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\Studies\C#\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\Studies\C#\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\C#\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Studies\C#\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\Studies\C#\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Studies\C#\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\Studies\C#\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\Studies\C#\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\Studies\C#\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\Studies\C#\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
+D:\Studies\C#\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
