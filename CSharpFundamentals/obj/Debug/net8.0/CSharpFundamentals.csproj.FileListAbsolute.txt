@@ -1,0 +1,14 @@
+D:\Studies\C#\CSharpFundamentals\bin\Debug\net8.0\CSharpFundamentals.exe
+D:\Studies\C#\CSharpFundamentals\bin\Debug\net8.0\CSharpFundamentals.deps.json
+D:\Studies\C#\CSharpFundamentals\bin\Debug\net8.0\CSharpFundamentals.runtimeconfig.json
+D:\Studies\C#\CSharpFundamentals\bin\Debug\net8.0\CSharpFundamentals.dll
+D:\Studies\C#\CSharpFundamentals\bin\Debug\net8.0\CSharpFundamentals.pdb
+D:\Studies\C#\CSharpFundamentals\obj\Debug\net8.0\CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\C#\CSharpFundamentals\obj\Debug\net8.0\CSharpFundamentals.AssemblyInfoInputs.cache
+D:\Studies\C#\CSharpFundamentals\obj\Debug\net8.0\CSharpFundamentals.AssemblyInfo.cs
+D:\Studies\C#\CSharpFundamentals\obj\Debug\net8.0\CSharpFundamentals.csproj.CoreCompileInputs.cache
+D:\Studies\C#\CSharpFundamentals\obj\Debug\net8.0\CSharpFundamentals.dll
+D:\Studies\C#\CSharpFundamentals\obj\Debug\net8.0\refint\CSharpFundamentals.dll
+D:\Studies\C#\CSharpFundamentals\obj\Debug\net8.0\CSharpFundamentals.pdb
+D:\Studies\C#\CSharpFundamentals\obj\Debug\net8.0\CSharpFundamentals.genruntimeconfig.cache
+D:\Studies\C#\CSharpFundamentals\obj\Debug\net8.0\ref\CSharpFundamentals.dll
